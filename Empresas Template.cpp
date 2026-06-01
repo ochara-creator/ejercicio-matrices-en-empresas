@@ -7,7 +7,7 @@ using namespace std;
 
 int main() {
     string empresas[5] = {
-        "Microsoft", "Apple", "Google", "Warner", "Disney"
+        "Samsung", "xiaomi", "Xvideos", "Claro", "you tube"
     };
     
     ifstream datos2023("input/ingresos-2023.csv");

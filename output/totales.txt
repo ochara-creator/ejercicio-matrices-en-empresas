@@ -1,0 +1,25 @@
+Empresa: Samsung
+ Ganancias 2023: 11000
+ Ganancias 2024: 12900
+ Ganancias 2025: 12000
+  Ganancias Totales: 35900
+Empresa: xiaomi
+ Ganancias 2023: 5100
+ Ganancias 2024: 5600
+ Ganancias 2025: 9400
+  Ganancias Totales: 20100
+Empresa: Xvideos
+ Ganancias 2023: 5200
+ Ganancias 2024: 6600
+ Ganancias 2025: 10300
+  Ganancias Totales: 22100
+Empresa: Claro
+ Ganancias 2023: 5400
+ Ganancias 2024: 8800
+ Ganancias 2025: 10800
+  Ganancias Totales: 25000
+Empresa: you tube
+ Ganancias 2023: 4500
+ Ganancias 2024: 7500
+ Ganancias 2025: 9900
+  Ganancias Totales: 21900
